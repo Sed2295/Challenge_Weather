@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACE,YACF,CACA,QACE,cAAc,CACd,eAEF","file":"main.b67f4596.chunk.css","sourcesContent":["body {\n  padding: 30px;\n}\n.cardss {\n  cursor:pointer;\n  max-width: 18rem;\n\n}\n"]}
